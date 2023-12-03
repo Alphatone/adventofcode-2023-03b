@@ -20,7 +20,7 @@ const test: string[] = [
 ]
 
 let res = 0
-let data = test
+let data = testData
 
 function isNeighbouringPartNumberAboveOrBelow(partNumberMatch: RegExpMatchArray, match: RegExpMatchArray) {
 	const startOfMatchIndex = partNumberMatch.index
