@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "lib": ["es2021", "DOM"],
+    "target": "ESNext"
+  },
+  "files": [
+    "index.ts"
+  ]
+}
